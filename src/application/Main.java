@@ -43,7 +43,7 @@ public class Main {
 			System.out.println("Nome: " + h[i].getNome());
 			System.out.println("Email: " + h[i].getEmail());
 			System.out.println("Numero: " + h[i].getNumero());
-			System.out.println("");
+			System.out.println("----");
 		}
 		
 		scan.close();
